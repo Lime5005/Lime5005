@@ -4,7 +4,6 @@
 
  🌱 I've learnt HTML, CSS, PHP, JavaScript, Java, I can build a website from scratch, with or without a framework.
 
- :sunny: I'm looking forward to find my first job in IT!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lime5005&layout=compact)](https://github.com/Lime5005/github-readme-stats)   
 
