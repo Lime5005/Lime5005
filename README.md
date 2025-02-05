@@ -7,4 +7,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lime5005&layout=compact)](https://github.com/Lime5005/github-readme-stats)   
 
-![Liping's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lime5005&show_icons=true&theme=vue-dark)
